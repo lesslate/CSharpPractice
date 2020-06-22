@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.exe
+C:\Users\kwon\Desktop\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.deps.json
+C:\Users\kwon\Desktop\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.runtimeconfig.json
+C:\Users\kwon\Desktop\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.dll
+C:\Users\kwon\Desktop\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.pdb
+C:\Users\kwon\Desktop\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.dll
+C:\Users\kwon\Desktop\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.pdb
+C:\Users\kwon\Desktop\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.genruntimeconfig.cache
