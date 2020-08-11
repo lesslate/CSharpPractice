@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kwon\\Desktop\\Slot\\Slot\\Slot.csproj",
+      "projectUniqueName": "Z:\\_Github\\CSharpPractice\\Slot\\Slot\\Slot.csproj",
       "projectName": "Slot",
-      "projectPath": "C:\\Users\\kwon\\Desktop\\Slot\\Slot\\Slot.csproj",
+      "projectPath": "Z:\\_Github\\CSharpPractice\\Slot\\Slot\\Slot.csproj",
       "packagesPath": "C:\\Users\\kwon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kwon\\Desktop\\Slot\\Slot\\obj\\",
+      "outputPath": "Z:\\_Github\\CSharpPractice\\Slot\\Slot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kwon\\AppData\\Roaming\\NuGet\\NuGet.Config",
